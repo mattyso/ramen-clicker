@@ -1,0 +1,20 @@
+{
+  "name": "bug-dodger-v120",
+  "version": "1.0.0",
+  "description": "Use the arrow keys to dodge the falling bugs. Try to get the high score. Made with Phaser",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "phaser": "3.55.2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
